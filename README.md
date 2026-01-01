@@ -1,2 +1,2 @@
 # VA-Social-Engineering-Exercises
-LAB TASK-SOCIAL ENGINEERING
+Write-ups for TryHackMe social engineering exercises
